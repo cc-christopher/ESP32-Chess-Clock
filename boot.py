@@ -1,6 +1,5 @@
 from disp_clock import timer_var, pixel_var
 from machine import Timer, Pin
-import camera
 
 W = False
 
